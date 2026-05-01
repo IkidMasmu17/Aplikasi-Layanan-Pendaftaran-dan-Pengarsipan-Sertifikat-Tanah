@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Aplikasi Pengelolaan Kepemilikan Tanah</title>
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Poppins:wght@500;600;700&display=swap"
     rel="stylesheet" />
   <link href="{{asset('admin/font-awesome/css/font-awesome.css')}}" rel="stylesheet">
   <link href="{{asset('admin/plugins/nprogress/nprogress.css')}}" rel="stylesheet" />
@@ -15,6 +15,7 @@
   <link href="{{asset('admin/img/favicon.png')}}" rel="shortcut icon" />
   <link rel="stylesheet" href="{{asset('iziToast/iziToast.css')}}" />
   <link rel="stylesheet" href="{{asset('iziToast/iziToast.min.css')}}" />
+  <link rel="stylesheet" href="{{asset('css/modern-ui.css')}}" />
   <script src="{{asset('admin/plugins/nprogress/nprogress.js')}}"></script>
   <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 </head>
@@ -469,8 +470,7 @@
   <footer class="footer mt-auto">
     <div class="copyright bg-white">
       <p>
-        &copy; <span id="copy-year"></span> Copyright Sleek Dashboard Bootstrap Template by <a class="text-primary"
-          href="http://www.iamabdus.com/" target="_blank">Abdus</a>.
+        &copy; <span id="copy-year"></span> Aplikasi Layanan Pendaftaran dan Pengarsipan Sertifikat Tanah.
       </p>
     </div>
     <script>
