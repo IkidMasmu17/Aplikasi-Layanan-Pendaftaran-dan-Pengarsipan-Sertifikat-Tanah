@@ -5,7 +5,6 @@ namespace App\Models;
 use App\Models\ArsipSertifikat;
 use App\Models\JenisBangunan;
 use App\Models\Kelurahan;
-use App\Models\PermohonanTanah;
 use App\Models\SurveiTanah;
 use App\Models\User;
 use Illuminate\Database\Eloquent\Model;
